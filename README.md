@@ -1,7 +1,14 @@
 # Chris Barlow's Custom GPTs
 A home for all my [Custom GPT](https://openai.com/blog/introducing-gpts) efforts.
 
-## List of GPTs
+- [Change Comms Scribe](#Change Comms Scribe)
+- [McCallum's Six-Animal Model]
+- [Unique Perspectives]
+- [Architects of the Digital Realm]
+- [Food Diary]
+- [Punslinger]
+
+## Breakdown
 ### [Change Comms Scribe](https://chat.openai.com/g/g-5ufL9aiQr-change-comms-scribe) 
 ![image](https://github.com/cgbarlow/customgpts/assets/959402/10d98859-e932-4240-9d1b-2a9275ba4d22)
 - Category: Writing.
