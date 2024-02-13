@@ -3,6 +3,8 @@ A home for all my [Custom GPT](https://openai.com/blog/introducing-gpts) efforts
 
 ## List of GPTs
 ### [Change Comms Scribe](https://chat.openai.com/g/g-5ufL9aiQr-change-comms-scribe) 
+![image](https://github.com/cgbarlow/customgpts/assets/959402/10d98859-e932-4240-9d1b-2a9275ba4d22)
+
 - Category: Writing.
 - Create communications tailored to various organizational personas.
 - [Custom GPT instructions](https://github.com/cgbarlow/Change-Management-Assistant/blob/main/Customgpt-instructions.md)
