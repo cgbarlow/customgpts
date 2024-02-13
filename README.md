@@ -1,5 +1,5 @@
-# customgpts
-A home for all my Custom GPT efforts.
+# Chris Barlow's Custom GPTs
+A home for all my [Custom GPT](https://openai.com/blog/introducing-gpts) efforts.
 
 ## List of GPTs
 ### [Change Comms Scribe](https://chat.openai.com/g/g-5ufL9aiQr-change-comms-scribe) 
