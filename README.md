@@ -24,7 +24,7 @@ Click the headings to jump over to the Custom GPT. The Custom GPT instructions I
 ### [Unique Perspectives](https://chat.openai.com/g/g-pOi5Le9rP-unique-perspectives)
 ![image](https://github.com/cgbarlow/customgpts/assets/959402/36223856-d450-4f88-8967-fb8093814ac2)
 - Category: Research & Analysis.
-- Get an in-depth analysis on a topic from six unique perspectives. Credit: Ross Dawson.
+- Get an in-depth analysis on a topic from six unique, dynamically generated perspectives. Credit: Ross Dawson.
  
 ### [Architects of the Digital Realm](https://chat.openai.com/g/g-dCI6AcJhi-architects-of-the-digital-realm)
 ![image](https://github.com/cgbarlow/customgpts/assets/959402/bbc76e75-e54f-4895-8d55-159c7a9823e4)
