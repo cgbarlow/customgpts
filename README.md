@@ -1,7 +1,7 @@
 # Chris Barlow's Custom GPTs
 A home for all my [Custom GPT](https://openai.com/blog/introducing-gpts) efforts.
 
-- [Change Comms Scribe](#Change Comms Scribe)
+- [Change Comms Scribe](/#Change Comms Scribe)
 - [McCallum's Six-Animal Model]
 - [Unique Perspectives]
 - [Architects of the Digital Realm]
