@@ -9,7 +9,7 @@ A home for all my Custom GPT efforts.
   
 ### [McCallum's Six-Animal Model](https://chat.openai.com/g/g-qpjjZ6HYU-mccallum-s-six-animal-model)
 - Category: Research & Analysis.
-- Embodies McCallum's Six-Animal Model for group dynamics, providing interactive role-based responses within a framework that blends psychological theories with animal archetypes to facilitate group work.
+- Embodies Dr Simon McCallum's Six-Animal Model for group dynamics, providing interactive role-based responses within a framework that blends psychological theories with animal archetypes to facilitate group work.
 
 ### [Unique Perspectives](https://chat.openai.com/g/g-pOi5Le9rP-unique-perspectives)
 - Category: Research & Analysis.
