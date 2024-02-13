@@ -2,11 +2,11 @@
 A home for all my [Custom GPT](https://openai.com/blog/introducing-gpts) efforts.
 
 - [Change Comms Scribe](#change-comms-scribe)
-- [McCallum's Six-Animal Model]
-- [Unique Perspectives]
-- [Architects of the Digital Realm]
-- [Food Diary]
-- [Punslinger]
+- [McCallum's Six-Animal Model](#mccallums-six-animal-model)
+- [Unique Perspectives](#unique-perspectives)
+- [Architects of the Digital Realm](#architects-of-the-digital-realm)
+- [Food Diary](#food-diary)
+- [Punslinger](#punslinger)
 
 ## Breakdown
 ### [Change Comms Scribe](https://chat.openai.com/g/g-5ufL9aiQr-change-comms-scribe) 
