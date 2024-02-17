@@ -8,8 +8,9 @@ Bringing together all my [Custom GPT](https://openai.com/blog/introducing-gpts) 
 - [Food Diary](#food-diary)
 - [Punslinger](#punslinger)
 
-Follow my YouTube channel [Learning Systems Research](https://www.youtube.com/channel/UCLTQd_NtLHt_Dpr1RClnFVg)
-More musings from me can be found on [my LinkedIn feed](https://www.linkedin.com/in/cgbarlow/)
+Follow my YouTube channel [Learning Systems Research](https://www.youtube.com/channel/UCLTQd_NtLHt_Dpr1RClnFVg).
+
+More musings from me can be found on [my LinkedIn feed](https://www.linkedin.com/in/cgbarlow/).
 
 ## GPTs
 Click the headings to jump over to the Custom GPT. The Custom GPT instructions I've used are included for a selection of these. *ChatGPT subscription required.*
