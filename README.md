@@ -8,7 +8,7 @@ Bringing together all my [Custom GPT](https://openai.com/blog/introducing-gpts) 
 - [Food Diary](#food-diary)
 - [Punslinger](#punslinger)
 
-See my musings via. [my LinkedIn feed](https://www.linkedin.com/in/cgbarlow/).
+Follow my musings on [LinkedIn](https://www.linkedin.com/in/cgbarlow/).
 
 Follow my YouTube channel [Learning Systems Research](https://www.youtube.com/channel/UCLTQd_NtLHt_Dpr1RClnFVg).
 
