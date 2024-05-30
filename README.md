@@ -9,8 +9,6 @@ Bringing together all my [Custom GPT](https://openai.com/blog/introducing-gpts) 
 
 Follow my musings on [LinkedIn](https://www.linkedin.com/in/cgbarlow/).
 
-![channels4_profile](https://github.com/cgbarlow/customgpts/assets/959402/5d1bd9db-ac4e-4154-82f3-cbef08c742c9)
-
 ## GPTs
 Click the headings to jump over to the Custom GPT. The Custom GPT instructions I've used are included for a selection of these. 
 ### [McCallum's Six-Animal Model](https://chat.openai.com/g/g-qpjjZ6HYU-mccallum-s-six-animal-model)
