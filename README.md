@@ -1,33 +1,29 @@
 # Chris Barlow's Custom GPTs
 Bringing together all my [Custom GPT](https://openai.com/blog/introducing-gpts) efforts in one place:
 
-- [Change Comms Scribe](#change-comms-scribe)
 - [McCallum's Six-Animal Model](#mccallums-six-animal-model)
+- [Change Comms Scribe](#change-comms-scribe)
 - [Unique Perspectives](#unique-perspectives)
 - [Architects of the Digital Realm](#architects-of-the-digital-realm)
 - [Punslinger](#punslinger)
 
 Follow my musings on [LinkedIn](https://www.linkedin.com/in/cgbarlow/).
 
-Follow my YouTube channel [Learning Systems Research](https://www.youtube.com/channel/UCLTQd_NtLHt_Dpr1RClnFVg).
-
 ![channels4_profile](https://github.com/cgbarlow/customgpts/assets/959402/5d1bd9db-ac4e-4154-82f3-cbef08c742c9)
 
-
-
 ## GPTs
-Click the headings to jump over to the Custom GPT. The Custom GPT instructions I've used are included for a selection of these. *ChatGPT subscription required.*
+Click the headings to jump over to the Custom GPT. The Custom GPT instructions I've used are included for a selection of these. 
+### [McCallum's Six-Animal Model](https://chat.openai.com/g/g-qpjjZ6HYU-mccallum-s-six-animal-model)
+![image](https://github.com/cgbarlow/customgpts/assets/959402/ac7d1b30-e1de-4417-9894-59b655515532)
+- Category: Research & Analysis.
+- Embodies Dr Simon McCallum's Six-Animal Model for group dynamics, providing interactive role-based responses within a framework that blends psychological theories with animal archetypes to facilitate group work.
+
 ### [Change Comms Scribe](https://chat.openai.com/g/g-5ufL9aiQr-change-comms-scribe) 
 ![image](https://github.com/cgbarlow/customgpts/assets/959402/10d98859-e932-4240-9d1b-2a9275ba4d22)
 - Category: Writing.
 - Create communications tailored to various organizational personas.
 - [Custom GPT instructions](https://github.com/cgbarlow/Change-Management-Assistant/blob/main/Customgpt-instructions.md)
   
-### [McCallum's Six-Animal Model](https://chat.openai.com/g/g-qpjjZ6HYU-mccallum-s-six-animal-model)
-![image](https://github.com/cgbarlow/customgpts/assets/959402/ac7d1b30-e1de-4417-9894-59b655515532)
-- Category: Research & Analysis.
-- Embodies Dr Simon McCallum's Six-Animal Model for group dynamics, providing interactive role-based responses within a framework that blends psychological theories with animal archetypes to facilitate group work.
-
 ### [Unique Perspectives](https://chat.openai.com/g/g-pOi5Le9rP-unique-perspectives)
 ![image](https://github.com/cgbarlow/customgpts/assets/959402/36223856-d450-4f88-8967-fb8093814ac2)
 - Category: Research & Analysis.
