@@ -7,7 +7,6 @@ Bringing together all my [Custom GPT](https://openai.com/blog/introducing-gpts) 
 - [Architects of the Digital Realm](#architects-of-the-digital-realm)
 - [Punslinger](#punslinger)
 
-Follow my musings on [LinkedIn](https://www.linkedin.com/in/cgbarlow/).
 
 ## GPTs
 Click the headings to jump over to the Custom GPT. The Custom GPT instructions I've used are included for a selection of these. 
