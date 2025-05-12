@@ -21,7 +21,7 @@ Click the headings to jump over to the Custom GPT. The Custom GPT instructions I
 ### [Diagnostic Interview for ADHD (DIVA)](https://chatgpt.com/g/g-68226214d5c08191b34ea48377f7f0ee-diagnostic-interview-for-adhd-diva)
 ![image](https://github.com/cgbarlow/customgpts/blob/827c575866c5722b0d781a3c7d9d8b5895d1515c/DIVA2/DIVA2_icon_design_sml.png)
 - A guided tool that walks you through the official DIVA 2.0 questionnaire, capturing responses and applying scoring rules to provide an initial, non-diagnostic assessment of potential ADHD traits.
-- [Custom GPT instructions]([https://github.com/cgbarlow/customgpts/tree/main/Electronics-Assistant](https://github.com/cgbarlow/customgpts/tree/main/DIVA2))
+- [Custom GPT instructions](https://github.com/cgbarlow/customgpts/tree/main/Electronics-Assistant](https://github.com/cgbarlow/customgpts/tree/main/DIVA2)](https://github.com/cgbarlow/customgpts/tree/main/DIVA2)
   - *(source document not provided)*
 
 ### [McCallum's Six-Animal Model](https://chat.openai.com/g/g-qpjjZ6HYU-mccallum-s-six-animal-model)
