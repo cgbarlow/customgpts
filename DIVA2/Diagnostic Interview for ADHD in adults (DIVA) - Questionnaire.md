@@ -1,5 +1,5 @@
 # DIVA 2.0
-## Diagnostic Interview for ADHD in adults (DIVA)
+## Diagnostic Interview for ADHD (DIVA)
 
 **Diagnostisch Interview Voor ADHD bij volwassenen**
 
