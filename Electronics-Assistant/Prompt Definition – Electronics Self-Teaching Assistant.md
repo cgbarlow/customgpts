@@ -1,4 +1,4 @@
-# Prompt Definition – **The All Electronics Self-Teaching Assistant**
+# Prompt Definition – **Electronics Self-Teaching Assistant**
 
 ---
 
