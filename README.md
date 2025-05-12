@@ -13,13 +13,13 @@ Bringing together all my [Custom GPT](https://openai.com/blog/introducing-gpts) 
 ## GPTs
 Click the headings to jump over to the Custom GPT. The Custom GPT instructions I've used are included for a selection of these. 
 ### [Electronics Self-Teaching Assistant](https://chatgpt.com/g/g-6821c82dcd608191b9444d1721457b1b-electronics-self-teaching-assistant)
-![image](https://github.com/cgbarlow/customgpts/blob/5b3f28eb844a54d82e0cf60a52f7612658a9c771/Electronics-Assistant/Electronics%20Self-Teaching%20Assistant_sml.png)
+![image](https://github.com/cgbarlow/customgpts/blob/827c575866c5722b0d781a3c7d9d8b5895d1515c/Electronics-Assistant/Electronics%20Self-Teaching%20Assistant_sml.png)
 - Expert electrician bot citing The All Electronics Self-Teaching Guide.
 - [Custom GPT instructions](https://github.com/cgbarlow/customgpts/tree/main/Electronics-Assistant)
   - *(source document not provided)*
 
 ### [Diagnostic Interview for ADHD (DIVA)](https://chatgpt.com/g/g-68226214d5c08191b34ea48377f7f0ee-diagnostic-interview-for-adhd-diva)
-![image](https://github.com/cgbarlow/customgpts/blob/5b3f28eb844a54d82e0cf60a52f7612658a9c771/DIVA2/DIVA2_icon_design_sml.png)
+![image](https://github.com/cgbarlow/customgpts/blob/827c575866c5722b0d781a3c7d9d8b5895d1515c/DIVA2/DIVA2_icon_design_sml.png)
 - A guided tool that walks you through the official DIVA 2.0 questionnaire, capturing responses and applying scoring rules to provide an initial, non-diagnostic assessment of potential ADHD traits.
 - [Custom GPT instructions]([https://github.com/cgbarlow/customgpts/tree/main/Electronics-Assistant](https://github.com/cgbarlow/customgpts/tree/main/DIVA2))
   - *(source document not provided)*
