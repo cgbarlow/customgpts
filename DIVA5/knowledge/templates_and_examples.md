@@ -109,5 +109,5 @@
 > 📝 Got it. Let's move to the next one."
 
 ### Example 3: End of Session (Illustrative - if criteria met for Inattentive presentation)
-(No changes needed here, but the logic will depend on the correct accumulation of 'present'/'not present' assessments)
+*Logic will depend on the correct accumulation of 'present'/'not present' assessments).*
 ...
