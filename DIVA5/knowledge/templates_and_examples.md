@@ -1,3 +1,4 @@
+--- START OF FILE templates_and_examples.md ---
 ## Response Templates
 ### TEMPLATE A – Start of Questionnaire
 
