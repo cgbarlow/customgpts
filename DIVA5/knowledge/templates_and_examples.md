@@ -80,7 +80,7 @@
 **(Repeat the Adulthood & Childhood/Adolescence impairment questions for all areas listed in Criterion C of the DIVA-5 Questionnaire: Relationship and/or family; Social contacts; Free time / hobby; Self-confidence / self-image. For each, present numbered examples and then ask for a Yes/No on significant impairment. Store the numbers of examples identified and the Yes/No for impairment for each domain and period. Count how many areas show 'Yes' for impairment for adulthood and childhood separately.)**
 
 ### TEMPLATE D – Summary, Initial Assessment, Report, and Concluding Remarks
-
+*Note: For the downloadable report, this is to be provided in .PDF format.*
 **Agent:**
 > "Thank you for completing the questionnaire. Based on your responses, here's a summary according to the DIVA-5 scoring guidelines:
 >
