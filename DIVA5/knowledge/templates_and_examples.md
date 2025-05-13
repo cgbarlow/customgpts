@@ -1,3 +1,5 @@
+--- START OF FILE templates_and_examples.md ---
+
 ## Response Templates
 ### TEMPLATE A – Start of Questionnaire
 
@@ -20,10 +22,12 @@
 >
 > 🔢 Which of these numbers apply to you in adulthood? Please list the numbers, or type 'None' if none apply."
 >
-> *(Agent waits for user's response listing numbers or 'None'. Internally store the response and assess symptom presence for adulthood: 'Yes' if one or more numbers are provided, 'No' if 'None' or no numbers are provided.)*
+> *(Agent waits for user's response listing numbers or 'None'. Internally store the response. Assesses symptom presence for adulthood: 'Yes' if one or more numbers are provided, 'No' if 'None' or no numbers are provided. Formulates the list of numbers provided by the user, e.g., "example 1", "examples 1 and 2", "examples 1, 2, and 3".)*
 >
 **Agent (after user responds for Adulthood and agent assesses presence):**
-> "Thank you. Based on your selection for adulthood, I've noted this symptom as **\[Agent states 'present' or 'not present']** during that time.
+> "Thank you.
+> *(If user provided numbers for Adulthood):* Since you identified example(s) **\[List of numbers user provided, e.g., '1, 5, and 8']** as applying to you in adulthood, I've noted this symptom as **present** during that time.
+> *(If user responded 'None' or provided no numbers for Adulthood):* As you indicated that none of the examples apply to you in adulthood, I've noted this symptom as **not present** during that time.
 >
 > Now, **thinking about CHILDHOOD (between ages 5 and 12):**
 > How was that for you? Here are some common examples from childhood in the DIVA-5:
@@ -33,10 +37,12 @@
 >
 > 🔢 Which of these numbers applied to you in childhood? Please list the numbers, or type 'None' if none apply."
 >
-> *(Agent waits for user's response listing numbers or 'None'. Internally store the response and assess symptom presence for childhood: 'Yes' if one or more numbers are provided, 'No' if 'None' or no numbers are provided.)*
+> *(Agent waits for user's response listing numbers or 'None'. Internally store the response. Assesses symptom presence for childhood: 'Yes' if one or more numbers are provided, 'No' if 'None' or no numbers are provided. Formulates the list of numbers provided by the user.)*
 >
 **Agent (after user responds for Childhood and agent assesses presence):**
-> "Understood. And for childhood, based on your selection, I've noted this symptom as **\[Agent states 'present' or 'not present']**.
+> "Understood.
+> *(If user provided numbers for Childhood):* And for childhood, since you identified example(s) **\[List of numbers user provided]** as applying, I've noted this symptom as **present**.
+> *(If user responded 'None' or provided no numbers for Childhood):* And for childhood, as you indicated that none of the examples apply, I've noted this symptom as **not present**.
 >
 > 📝 Got it. Let's move to the next one."
 
@@ -169,7 +175,7 @@
 **User**: "1, 5, 8"
 
 **Assistant**:
-> "Thank you. Based on your selection for adulthood (examples 1, 5, 8), I've noted this symptom as **present** during that time.
+> "Thank you. Since you identified examples 1, 5, and 8 as applying to you in adulthood, I've noted this symptom as **present** during that time.
 >
 > Now, **thinking about CHILDHOOD (between ages 5 and 12):**
 > How was that for you? Here are some common examples from childhood in the DIVA-5:
@@ -185,10 +191,10 @@
 >
 > 🔢 Which of these numbers applied to you in childhood? Please list the numbers, or type 'None' if none apply."
 
-**User**: "1, 3, 7"
+**User**: "None"
 
 **Assistant**:
-> "Understood. And for childhood, based on your selection (examples 1, 3, 7), I've noted this symptom as **present**.
+> "Understood. And for childhood, as you indicated that none of the examples apply, I've noted this symptom as **not present**.
 >
 > 📝 Got it. Let's move to the next one."
 
@@ -202,3 +208,4 @@
 >
 > ⚠️ **VERY IMPORTANT - PLEASE READ:**
 > This is an initial screening based on your self-report using the DIVA-5 structure. **It is NOT a clinical diagnosis.** ... (rest of disclaimer and next steps from TEMPLATE D)"
+--- END OF FILE templates_and_examples.md ---
