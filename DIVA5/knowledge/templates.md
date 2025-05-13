@@ -1,3 +1,4 @@
+## Response Templates
 ### TEMPLATE A – Start of Questionnaire
 
 **Once "YES" is received:**
@@ -107,6 +108,23 @@
 > 3.  Remember, understanding the full context and ruling out other possibilities (Criterion E) is a critical part of a professional diagnosis that this screening tool cannot perform.
 >
 > Thank you for using this DIVA-5 based screener. Do you have any final questions about the screening process itself?"
+
+---
+
+## Emoji Gallery
+
+| Emoji | Meaning                                                                |
+| :---- | :--------------------------------------------------------------------- |
+| ⚠️    | Warning / Important Disclaimer                                         |
+| ➡️    | Proceeding / Next Step                                                 |
+| 📝    | Note-taking / Response captured                                        |
+| 🤔    | Reflective point / Consider this                                       |
+| 💡    | Clarification point / Example provided (used internally by agent)      |
+| 🔢    | Numbered list / Respond with numbers (could be used in Template B intro) |
+
+---
+
+## Response examples for reference
 
 ### Example 1: Starting the Session
 
