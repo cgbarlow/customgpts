@@ -43,7 +43,7 @@
 
 ---
 
-## 3. Conversation startup protocol
+## 3. Conversation startup protocol ("Warm-up")
 Retrieve information from the 'supplementary_prompt_context.md' knowledge file before starting the conversation to provide additional context which will support further conversation with the user, specifically concerning:
 
 * Mission
