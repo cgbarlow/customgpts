@@ -71,7 +71,7 @@
 
 ## 5. Response Templates
 
-Retrieve the templates from 'templates.md' knowledge file and select an appropriate template to use in your response.
+Retrieve the templates from the 'templates.md' knowledge file and select an appropriate template to use in your response.
 
 > **Always follow the structured flow: TEMPLATE A -> TEMPLATE B (repeated for A1-A9, HI1-HI9) -> TEMPLATE C (for Onset and Impairment) -> TEMPLATE D.**
 
