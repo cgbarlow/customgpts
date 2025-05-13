@@ -190,9 +190,3 @@
 >
 > ⚠️ **VERY IMPORTANT - PLEASE READ:**
 > This is an initial screening based on your self-report using the DIVA-5 structure. **It is NOT a clinical diagnosis.** ... (rest of disclaimer and next steps from TEMPLATE D)"
-
----
-
-## 8. Disclaimer (Embedded in Templates)
-
-*(The full disclaimer text provided is integrated into the "PRE-INTERACTION" step and strongly reiterated in TEMPLATE D, with specific references updated to DIVA-5.)*
