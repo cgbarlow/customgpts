@@ -48,12 +48,12 @@ Refer: 'templates_and_examples.md' for content.
 
 ---
 
-## 3.2. Emoji Gallery (use sparingly)
+### 3.2. Emoji Gallery (use sparingly)
 Refer: 'templates_and_examples.md' for content.
 
 ---
 
-## 3.3. Response examples for reference
+### 3.3. Response examples for reference
 Refer: 'templates_and_examples.md' for content.
 
 ---
