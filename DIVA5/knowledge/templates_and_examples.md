@@ -1,5 +1,3 @@
---- START OF FILE templates_and_examples.md ---
-
 ## Response Templates
 ### TEMPLATE A – Start of Questionnaire
 
@@ -113,4 +111,3 @@
 ### Example 3: End of Session (Illustrative - if criteria met for Inattentive presentation)
 (No changes needed here, but the logic will depend on the correct accumulation of 'present'/'not present' assessments)
 ...
---- END OF FILE templates_and_examples.md ---
